@@ -54,8 +54,8 @@
           "description": "في حالة التمكين ، يتم اعتبار الصفحة بدون مهام عند عرضها. صفحة بها مهام عند الانتهاء من جميع المهام. في حالة التعطيل ، سيكون هناك زر في أسفل كل صفحة لينقر عليها المستخدم عند الانتهاء من الصفحة."
         },
         {
-          "label": "Display summary",
-          "description": "When enabled the user can see a summary and submit the progress/answers"
+          "label": "عرض الملخص",
+          "description": "عند التمكين ، يمكن للمستخدم رؤية ملخص وإرسال التقدم / الإجابات"
         }
       ]
     },
@@ -172,16 +172,16 @@
       "default": "Your answers are submitted for review!"
     },
     {
-      "label": "Summary progress label",
-      "default": "Book progress"
+      "label": "ملخص التقدم",
+      "default": "تقدم الكتاب"
     },
     {
-      "label": "Interactions progress label",
-      "default": "Interactions progress"
+      "label": "تقدم التفاعلات",
+      "default": "تقدم التفاعلات"
     },
     {
-      "label": "Total score label",
-      "default": "Total score"
+      "label": "مجموع النقاط",
+      "default": "مجموع النقاط"
     },
     {
       "label": "إمكانية الوصول للنصوص",
